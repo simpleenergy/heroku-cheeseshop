@@ -1,0 +1,5 @@
+localshop==0.4.1
+boto==2.27.0
+django-herokuify==1.0.pre3
+pylibmc==1.2.3
+psycopg2==2.5.2
